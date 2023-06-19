@@ -1,4 +1,4 @@
-# newprjj
+# Tic-Tac-Toe a game Application.
 
 A new Flutter project.
 
